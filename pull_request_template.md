@@ -1,8 +1,8 @@
-# Validate [TOKEN_SYMBOL_HERE](https://solscan.io/token/MINT_ADDRES_HERE)
+# Validate [BAG](https://solscan.io/token/D8r8XTuCrUhLheWeGXSwC3G92RhASficV3YA7B2XWcLv)
 
 ## Attestations (Please provide links):
-- Tweet from your Twitter Account attesting the Mint address, tagging [@JupiterExchange](https://twitter.com/JupiterExchange) and showing community support: https://twitter.com/YOUR_ACCOUNT_NAME_HERE/status/YOUR_TWEET_ID_HERE
-- Coingecko/ CMC URL (If available): https://www.coingecko.com/en/coins/YOUR_ID_HERE
+- https://twitter.com/wifbag
+- Coingecko/ CMC URL (If available): https://www.coingecko.com/en/coins/catwifbag
 
 ## Validation (Please check off boxes):
 - [ ] The metadata provided in the PR matches what is on-chain (Mandatory)
